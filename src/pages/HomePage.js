@@ -6,7 +6,7 @@ export default function HomePage() {
         <div className="container">
             <h1>Home Page</h1>
             <p>
-                <Link to='/user'>User</Link>
+                <Link to='/gklsan'>User</Link>
             </p>
 
         </div>
