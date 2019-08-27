@@ -69,12 +69,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 ## Build a project
+    
+    Ref: https://www.taniarascia.com/using-react-router-spa/
 
- npx create-react-app example-router 
-
- cd example-router
-
- yarn start
-
-
- 
+    npx create-react-app example-router 
+    
+    cd example-router
+    
+    yarn start
+     
+    yarn add react-router-dom axios
+    
